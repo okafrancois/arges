@@ -1,0 +1,27 @@
+{
+  "name": "arges-travel",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bernyfrancois/arges-travel.git"
+  },
+  "author": "bernyfrancois",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bernyfrancois/arges-travel/issues"
+  },
+  "homepage": "https://github.com/bernyfrancois/arges-travel#readme",
+  "directories": {
+    "doc": "doc"
+  },
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
